@@ -1,0 +1,1 @@
+Copy d0 folder and rename folder, py and txt input files as current day.
