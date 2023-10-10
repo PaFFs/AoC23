@@ -1,2 +1,2 @@
-with open(filepath) as file:
+with open('input.txt') as file:
         lines = file.readlines()
